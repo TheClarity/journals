@@ -1,2 +1,12 @@
-kldfklsdksdf
-
+#include <stdio.h>
+#include <string.h>
+int math();
+int add();
+int sub();
+int main(void)
+{
+    puts("Hello World!");
+    puts("Hello again");
+    math();
+    return 0;
+}
